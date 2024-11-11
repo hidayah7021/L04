@@ -298,6 +298,7 @@ const styles2 = StyleSheet.create({
   child:{
       width: 80,
       height: 80,
+      backgroundColor:'powderblue',
     flexDirection: 'row',
     borderWidth: 2,
     textAlign:'center',
